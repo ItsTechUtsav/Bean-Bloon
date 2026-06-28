@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/-bean-bloom/static/css/main.6cfbfefc.css",
-    "main.js": "/-bean-bloom/static/js/main.02e3986e.js",
-    "static/js/453.339a5d91.chunk.js": "/-bean-bloom/static/js/453.339a5d91.chunk.js",
-    "index.html": "/-bean-bloom/index.html",
-    "main.6cfbfefc.css.map": "/-bean-bloom/static/css/main.6cfbfefc.css.map",
-    "main.02e3986e.js.map": "/-bean-bloom/static/js/main.02e3986e.js.map",
-    "453.339a5d91.chunk.js.map": "/-bean-bloom/static/js/453.339a5d91.chunk.js.map"
+    "main.css": "./static/css/main.6cfbfefc.css",
+    "main.js": "./static/js/main.02e3986e.js",
+    "static/js/453.339a5d91.chunk.js": "./static/js/453.339a5d91.chunk.js",
+    "index.html": "./index.html",
+    "main.6cfbfefc.css.map": "./static/css/main.6cfbfefc.css.map",
+    "main.02e3986e.js.map": "./static/js/main.02e3986e.js.map",
+    "453.339a5d91.chunk.js.map": "./static/js/453.339a5d91.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6cfbfefc.css",
